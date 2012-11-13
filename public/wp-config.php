@@ -40,14 +40,14 @@ if (file_exists( $local_config_file )) {
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'g1^|umVD0G7tg9SQ11M*O<w1k?!}7kI}Iu`:8rP@^/W&MeVdU/+kCz~=#DVbo8R.');
-define('SECURE_AUTH_KEY',  '(ioxH&.6nEoc|p~z)Lm9bS,-Ur?`rL*~+b~Som6t}$:|fma(tLs!a$> }Pox@B}#');
-define('LOGGED_IN_KEY',    '7+`e`h$f80m;GTBg<QVOcbB.1+c)?SZ$i{kRjiEm[6r[{k5q5Q( #ffNZUo>+`S0');
-define('NONCE_KEY',        '8gCQ@l~EoG]@ac`5iC;+54C)@Yun|x-e76UiUktGS&`(1H9,^Q>)gAu=(I}i~]Ub');
-define('AUTH_SALT',        'H}c_oU:2Hv+0OR{vh~<{3D#CZ`A;R:SJ|Fax+!G;Q_#Tt_us8$,Crc~}v`V[P+b?');
-define('SECURE_AUTH_SALT', 'r e41>#6s^3:#IiA[l6PO=%s1`r@Ycx61>v}>PR@M<U|A^2GSo4hn&6>A}w@q}x[');
-define('LOGGED_IN_SALT',   '&WDm~qxgp65M4icZ?qpSzw7N%tg+nAj[s`hUZd(]aA}YT}WqePPz+OAT2Pc(GyWS');
-define('NONCE_SALT',       ' 9,Tu=b,k2@l*_EZn(=%qIhEVa uS;Q=O{L}X=(KMBru?S?nd1|->+HP3TKGY:y!');
+define('AUTH_KEY',         'put your unique phrase here');
+define('SECURE_AUTH_KEY',  'put your unique phrase here');
+define('LOGGED_IN_KEY',    'put your unique phrase here');
+define('NONCE_KEY',        'put your unique phrase here');
+define('AUTH_SALT',        'put your unique phrase here');
+define('SECURE_AUTH_SALT', 'put your unique phrase here');
+define('LOGGED_IN_SALT',   'put your unique phrase here');
+define('NONCE_SALT',       'put your unique phrase here');
 
 /**#@-*/
 
